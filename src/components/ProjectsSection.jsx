@@ -26,7 +26,7 @@ const projects = [
     description: "Implemented visual clone of popular brand",
     image: img2,
     tags: ["Html", "JS", "TailwindCSS"],
-    demoUrl: "#",
+    demoUrl: "https://paytm-clone-flame.vercel.app/",
     githubUrl: "https://github.com/Lalitpandey1/One-Card.git",
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     description: "To-Do application using Typescript",
     image: img3,
     tags: ["Typescript", "TailwindCSS", "Vite"],
-    demoUrl: "#",
+    demoUrl: "https://todo-ts-ten-kappa.vercel.app/",
     githubUrl: "https://github.com/Lalitpandey1/Todo-TS.git",
   },
 ];
