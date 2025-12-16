@@ -17,8 +17,8 @@ const projects = [
       "NodeJs",
       "Express",
     ],
-    demoUrl: "https://e-commerce-psi-mocha-66.vercel.app/",
-    githubUrl: "https://github.com/Lalitpandey1/E-Commerce.git",
+    demoUrl: "https://energizex.netlify.app/",
+    githubUrl: "https://github.com/Lalitpandey1/Health-Products-E-commerce-",
   },
   {
     id: 2,
