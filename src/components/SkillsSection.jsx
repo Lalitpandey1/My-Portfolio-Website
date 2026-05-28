@@ -5,6 +5,7 @@ const skills = [
   // Frontend
   { name: "React", level: 90, category: "frontend" },
   { name: "Tailwind CSS", level: 80, category: "frontend" },
+   { name: "Redux Toolkit", level: 90, category: "frontend" },
   { name: "JavaScript", level: 90, category: "frontend" },
   { name: "TypeScript", level: 70, category: "frontend" },
   { name: "HTML/CSS", level: 95, category: "frontend" },
@@ -25,6 +26,9 @@ const skills = [
   { name: "AWS", level: 60, category: "tools" },
   { name: "Figma", level: 65, category: "tools" },
   { name: "VS Code", level: 90, category: "tools" },
+  { name: "RazorPay", level: 90, category: "tools" },
+  { name: "Agile/Scrum", level: 90, category: "tools" },
+  
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
